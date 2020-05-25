@@ -11,5 +11,5 @@ Weekly Reversing Pro is a web service that delivers reverse engineering challeng
 </ul>
 <h2>Demo</h2>
 <p align="center">
-  <img src="https://img.youtube.com/vi/acUcRfx2psM/0.jpg" alt="Youtube Demo screenshot"><a href="https://www.youtube.com/watch?v=acUcRfx2psM"></a></img>
+  <a href="https://www.youtube.com/watch?v=acUcRfx2psM"><img src="https://img.youtube.com/vi/acUcRfx2psM/0.jpg" alt="Youtube Demo screenshot"></img></a>
 </p>
